@@ -1,4 +1,4 @@
-[![img](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)
+[![img](https://www.iconninja.com/files/785/628/39/linkedin-icon.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)
 
 ### Hi there 👋
 
