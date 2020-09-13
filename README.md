@@ -1,4 +1,4 @@
-[![img](https://www.iconninja.com/files/785/628/39/linkedin-icon.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)
+[![img](https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-256.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)
 
 ### Hi there 👋
 
