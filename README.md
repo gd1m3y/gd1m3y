@@ -4,7 +4,7 @@
 <!--
 **gd1m3y/gd1m3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Amey narayan . My Interests focuses upon solving real life problems using Deep Learning and Machine Learning . You can always ping me up for collaborations regarding these topics.
+I am Amey narayan . My Interests focuses upon solving real life problems using Deep Learning and Machine Learning . You can always ping me up for collaborations.
 
 - 🔭 I’m currently working on a Machine language Translation Project
 - 🌱 I’m currently learning best practises for ML and Deep Learning
