@@ -1,3 +1,5 @@
+[![img](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)
+
 ### Hi there 👋
 
 <!--
