@@ -6,7 +6,7 @@
 -->
 I am Amey narayan . My Interests focuses upon solving real life problems using Deep Learning and Machine Learning . You can always ping me up for collaborations.
 
-- 🔭 I’m currently working on a Machine language Translation Project
+- 🔭 I’m currently working with knowledge graph and transformers to solve various NLP problems.
 - 🌱 I’m currently learning best practises for ML and Deep Learning
 - 👯 I’m looking to collaborate on any Deep Learning and Machine Learning project.
 - 🤔 I’m looking for help with Docker deployment
