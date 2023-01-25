@@ -1,4 +1,4 @@
-[![img](https://github.com/gd1m3y/gd1m3y/blob/master/iconfinder_14_5209164.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)[![img](https://github.com/gd1m3y/gd1m3y/blob/master/iconfinder_189_Kaggle_4519136.png)](https://www.kaggle.com/gd1m3y)
+[![img](https://github.com/gd1m3y/gd1m3y/blob/master/iconfinder_14_5209164.png)](https://www.linkedin.com/in/amey-narayan-32961516b/)[![img]
 ### Hi there 👋
 
 <!--
