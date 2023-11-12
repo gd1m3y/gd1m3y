@@ -12,8 +12,7 @@ I am Amey narayan . My Interests focuses upon solving real life problems using D
 - 🤔 I’m looking for help with Docker deployment
 - 💬 Ask me about Open CV , Pytorch , Tensorflow or ML
 - 📫 How to reach me: To directly access my resume [My Resume](https://docs.google.com/document/d/1s1mcD5kcqIPcNR9hb0-G6LT3L5Z9AOq9ndGz2FyhMW8/edit?usp=sharing) else you can contact my mail - narayanamay123@gmail.com
-- 😄 Pronouns: Lets be professional
-- ⚡ Fun fact: Potatos potate and i innovate.
+
 
 
 [![Ameys's GitHub stats](https://github-readme-stats.vercel.app/api?username=gd1m3y)](https://github.com/anuraghazra/github-readme-stats)
